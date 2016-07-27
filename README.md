@@ -26,5 +26,5 @@ Then run the following command:
 
 When this command completes your optimized image assets will be found under `dist/assets/*`.
 
-These optimized image assets are now ready to be added to an `assets` directory alongside your **PITCHME.md** in your GitHub repo or stored in some publically accessible CDN.
+These optimized image assets are now ready to be added to an `assets` directory alongside your **PITCHME.md** in your GitHub repo or stored in some publicly accessible CDN.
 
