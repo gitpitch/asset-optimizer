@@ -1,6 +1,6 @@
 # GitPitch Asset-Optimizer
 
-An image minifier for GitPitch PNG, JPEG, GIF and SVG image dependencies. Built on the streaming build system, [Gulp](https://www.npmjs.com/package/gulp). 
+An image minifier for GitPitch PNG, JPEG, GIF and SVG image dependencies. Built using [Gulp](https://www.npmjs.com/package/gulp), the streaming build system.
 
 ###Dependencies
 
@@ -17,12 +17,14 @@ Prepare as follows:
 1. npm install --save-dev gulp-imagemin
 
 
-Once your local copy of the `asset-optimizer` is prepared as indicated, the next step is to copy all of your GitPitch image file dependencies into the `assets` directory. Then run the following command:
+Once your local copy of the `asset-optimizer` is prepared as indicated, the next step is to copy all of your GitPitch image file dependencies into the `assets` directory.
+
+Then run the following command:
 
 
 1. gulp dist
 
-Your optimized image assets can be found under `dist/assest/*`.
+When this command completes your optimized image assets will be found under `dist/assest/*`.
 
-These optimized image assets should be added in an `assets` directory alongside your **PITCHME.md** or stored in some publically accessible CDN.
+These optimized image assets are now ready to be added to an `assets` directory alongside your **PITCHME.md** or stored in some publically accessible CDN.
 
