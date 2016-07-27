@@ -24,7 +24,7 @@ Then run the following command:
 
 1. gulp dist
 
-When this command completes your optimized image assets will be found under `dist/assest/*`.
+When this command completes your optimized image assets will be found under `dist/assets/*`.
 
 These optimized image assets are now ready to be added to an `assets` directory alongside your **PITCHME.md** or stored in some publically accessible CDN.
 
