@@ -2,12 +2,12 @@
 
 An image minifier for GitPitch PNG, JPEG, GIF and SVG image dependencies. Built using [Gulp](https://www.npmjs.com/package/gulp), the streaming build system.
 
-###Dependencies
+### Dependencies
 
 1. The [NPM](https://www.npmjs.com/) Package Manager
 
 
-###How It Works
+### How It Works
 
 Prepare as follows:
 
